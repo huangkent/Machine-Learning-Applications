@@ -5,6 +5,6 @@ This repository provides code of these application:
    method: the Least Mean Square method
    coding: MatLab
 2) Handwritten Digits Recognition on small images
-   method: SVM
-   coding: MatLab
+   method: random forest
+   coding: Python
    data:   train and test sets provided
