@@ -32,3 +32,18 @@ This repository provides code of these application:
    
                   $ ./a.out < input.dat
 
+4) classifier.cpp is a code that implements k-NN 
+
+   method: k-dimension tree (for both data structure and algorithm)
+   
+   coding: C++
+   
+   input manner: by a text file (e.g. .dat)
+   
+                 in input file, there are some columns of numbers (each column is a feature) with the last column as label.
+   
+   recommended platform:  Linux
+   
+   run the code:  $ g++ classifier.cpp  (will generate a.out)
+   
+                  $ ./a.out < input.dat
