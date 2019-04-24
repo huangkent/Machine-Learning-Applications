@@ -23,9 +23,10 @@ This repository provides code of these application:
    coding: C++
    
    input manner: by a text file (e.g. .dat)
+   
                  in input file, there are two columns of numbers (one column is x data, and the other is y data)
    
-   recommended platform: Linux
+   recommended platform:  Linux
    
    run the code:  $ g++ curve_fitting.cpp  (will generate a.out)
    
