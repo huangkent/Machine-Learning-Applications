@@ -55,3 +55,15 @@ This repository provides code of these application:
 6) k-means_3_clusters_of_iris.rar
 
    This file include a Python code of k-means for iris and a text file of iris data in csv format.
+
+7) kNN_iris_prediction_Python3.4.3.py
+
+   This code of k-NN for iris classification 
+   
+       . loads data from sklearn.datasets.load_iris
+       
+       . creates, trains and uses sklearn.neighbors.KNeighborsClassifier
+       
+       . uses number of neighbors k = 25 (can be changed in code; suggest using an odd number)
+       
+       . evaluate accuracy of the model
