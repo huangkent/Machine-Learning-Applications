@@ -69,3 +69,7 @@ This repository provides code of these application:
        . evaluate accuracy of the model
        
        . prints the model with parameters
+
+8) kNN_via_distance_calculation.py
+
+   The k nearest neighbors are found via distance calculation and sorting the distances.
