@@ -47,3 +47,7 @@ This repository provides code of these application:
    run the code:  $ g++ classifier.cpp  (will generate a.out)
    
                   $ ./a.out < input.dat
+
+5) Python_MachineLearningLib.py
+
+   This is my own library of machine-learning functions that call APIs from sklearn.
