@@ -73,3 +73,7 @@ This repository provides code of these application:
 8) kNN_via_distance_calculation.py
 
    The k nearest neighbors are found via distance calculation and sorting the distances.
+
+9) breast_cancer_diagnosis_via_SVM.rar
+
+   It includes a Python code of using sklearn's SVC and a dataset of breast cancer.
