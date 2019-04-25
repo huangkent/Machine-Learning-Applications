@@ -51,3 +51,7 @@ This repository provides code of these application:
 5) Python_MachineLearningLib.py
 
    This is my own library of machine-learning functions that call APIs from sklearn.
+
+6) k-means_3_clusters_of_iris.rar
+
+   This file include a Python code of k-means for iris and a text file of iris data in csv format.
