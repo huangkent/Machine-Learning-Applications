@@ -67,3 +67,5 @@ This repository provides code of these application:
        . uses number of neighbors k = 25 (can be changed in code; suggest using an odd number)
        
        . evaluate accuracy of the model
+       
+       . prints the model with parameters
