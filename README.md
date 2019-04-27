@@ -1,5 +1,10 @@
 # Machine-Learning-Applications
 
+IMPORTANT Note:
+
+    These codes may use different versions of a library (e.g. sklearn).
+
+
 This repository provides code of these application:
 
 1) Tic Tac Toe play and learn
