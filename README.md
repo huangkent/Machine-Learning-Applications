@@ -82,3 +82,9 @@ This repository provides code of these application:
 9) breast_cancer_diagnosis_via_SVM.rar
 
    It includes a Python code of using sklearn's SVC and a dataset of breast cancer.
+
+10) internet_service_defection.rar
+
+    It includes a Python code, a dataset and the generated reult file on the dataset.
+    
+    The code classifies/predicts service defection, and it employs the models of SVM, Random Forest, etc.
