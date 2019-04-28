@@ -88,3 +88,11 @@ This repository provides code of these application:
     It includes a Python code, a dataset and the generated reult file on the dataset.
     
     The code classifies/predicts service defection, and it employs the models of SVM, Random Forest, etc.
+
+11) insurance_claim_loss_prediction_LinearRegression.rar
+
+    It includes a Python code, train/test datasets and test result
+    
+    The code employs Linear Regression.
+    
+12) 
