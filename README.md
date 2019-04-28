@@ -5,7 +5,7 @@ IMPORTANT Note:
     These codes may use different versions of a library (e.g. sklearn).
 
 
-This repository provides code of these application:
+This repository provides code of these applications:
 
 1) Tic Tac Toe play and learn
 
