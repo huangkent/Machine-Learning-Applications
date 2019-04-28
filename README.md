@@ -95,4 +95,8 @@ This repository provides code of these application:
     
     The code employs Linear Regression.
     
-12) 
+12) insurance_claim_loss_prediction_bayesianRidge.rar
+
+    the code uses Bayesian Ridge model
+    
+    the zipped file includes a Python code, train/test datasets and test result.
